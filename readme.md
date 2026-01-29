@@ -2,6 +2,6 @@
 
 I am Tejas Kamble a Tech Person
 
-'''javascript
+```javascript
 console.log("helo World")
-'''
+```
